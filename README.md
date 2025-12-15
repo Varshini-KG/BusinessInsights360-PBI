@@ -51,3 +51,7 @@ The final report is designed with four navigation pages: <b>Executive View, Map 
 - DAX calculations for custom measures and performance tracking
 - Customer and product segmentation analysis.
 - Visual storytelling and presenting insights for business decisions
+
+<h2><b>Live Dashboard:</b></h2>
+
+[Click Here](https://app.powerbi.com/reportEmbed?reportId=99ed90c5-6d47-4309-9f27-c437f339e707&autoAuth=true&ctid=cb0ed80c-344d-4952-bec0-fddd190f3163)
