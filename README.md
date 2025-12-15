@@ -8,6 +8,8 @@ The final report is designed with four navigation pages: <b>Executive View, Map 
   <img src="Executive View.jpg">
  </p> 
 
+[Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=99ed90c5-6d47-4309-9f27-c437f339e707&autoAuth=true&ctid=cb0ed80c-344d-4952-bec0-fddd190f3163)
+
 **Key metrics:** 
 - ₹24.9M total revenue.
 - ₹10.5M total profit
@@ -52,6 +54,4 @@ The final report is designed with four navigation pages: <b>Executive View, Map 
 - Customer and product segmentation analysis.
 - Visual storytelling and presenting insights for business decisions
 
-<h2><b>Live Dashboard:</b></h2>
 
-[Click Here](https://app.powerbi.com/reportEmbed?reportId=99ed90c5-6d47-4309-9f27-c437f339e707&autoAuth=true&ctid=cb0ed80c-344d-4952-bec0-fddd190f3163)
